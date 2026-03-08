@@ -1,59 +1,73 @@
-👋 Hi, I'm Rohan
+# 👋 Hi, I'm Rohan
 
-I'm a developer passionate about AI, computer vision, and building real-world systems that solve practical problems.
+I'm a developer passionate about **AI, computer vision, and building systems that interact with the physical world**.
 
-Recently, I’ve been focused on building AI-powered tools that interact with the physical world, combining vision models, real-time processing, and natural interfaces.
+I enjoy building practical tools that combine **vision models, real-time processing, and natural user interfaces** to solve real problems.
 
-🚀 What I'm Building
+---
 
-🔹 Storganize – AI-powered hands-free inventory system
+## 🚀 Projects
 
-Identify items using computer vision
+### 🧠 Storganize
+AI-powered **hands-free inventory management system**
 
-Track placement using hand tracking
+- Identify items using computer vision
+- Track item placement using hand tracking
+- Ask questions like *“Where is the blue toolbox?”*
+- Voice interaction with natural language responses
 
-Query inventory using natural language
+Built with a combination of **AI vision models, spatial tracking, and browser-based processing**.
 
-🔹 AI + Vision Experiments
+---
 
-Real-time object recognition
+## 🛠 Tech Stack
 
-Motion detection pipelines
+**Languages**
+- Python
+- JavaScript
+- TypeScript
 
-Efficient frame filtering for AI models
+**AI / ML**
+- Gemini API
+- Computer Vision
+- MediaPipe
 
-🔹 Hackathon Projects
-I enjoy rapid prototyping and building working products in 24–48 hours.
+**Development**
+- React
+- Next.js
+- Node.js
+- REST APIs
 
-🧠 Interests
+**Tools**
+- Git
+- Docker
+- Real-time camera processing
 
-Artificial Intelligence
+---
 
-Computer Vision
+## 🧠 Interests
 
-Real-time systems
+- Artificial Intelligence  
+- Computer Vision  
+- Real-time AI systems  
+- Human-AI interaction  
+- Building useful products
 
-Human-AI interaction
+---
 
-Building useful tools
+## 📈 Currently Learning
 
-🛠 Tech I Use
-Languages: Python, JavaScript, TypeScript  
-AI/ML: Gemini API, OpenAI, MediaPipe  
-Frontend: React, Next.js  
-Backend: Node.js, APIs  
-Other: Git, Docker, WebRTC, Computer Vision pipelines
+- Advanced computer vision pipelines
+- Efficient AI inference systems
+- Scaling AI-powered applications
 
-📈 What I'm Working Toward
+---
 
-Building AI systems that integrate with the real world
+## 📫 Connect With Me
 
-Creating projects that move beyond demos into usable products
+- LinkedIn: *(add your LinkedIn link here)*
+- GitHub: *(your GitHub username)*
 
-Continuously learning through hackathons and hands-on building
+---
 
-📫 Connect With Me
-
-LinkedIn: (add your link here)
-
-GitHub: (your username)
+⭐ I enjoy collaborating on **AI, computer vision, and innovative projects.**
