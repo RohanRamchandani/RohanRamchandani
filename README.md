@@ -1,73 +1,73 @@
-# 👋 Hi, I'm Rohan
+# Hi, I'm Rohan 👋
 
-I'm a developer passionate about **AI, computer vision, and building systems that interact with the physical world**.
+## About Me
 
-I enjoy building practical tools that combine **vision models, real-time processing, and natural user interfaces** to solve real problems.
+I was born and raised in Indonesia and am currently studying Computer Science (with a minor in Finance) in Toronto, Canada at Toronto Metropolitan University (formerly Ryerson University).
 
----
+I’m someone who is deeply curious about how things work. I don’t just like learning *what* works—I’m always driven to understand the **"why"** behind it. Whether it’s optimizing a system, understanding a new framework, or breaking down a complex problem, I enjoy diving deeper and building meaningful solutions.
 
-## 🚀 Projects
-
-### 🧠 Storganize
-AI-powered **hands-free inventory management system**
-
-- Identify items using computer vision
-- Track item placement using hand tracking
-- Ask questions like *“Where is the blue toolbox?”*
-- Voice interaction with natural language responses
-
-Built with a combination of **AI vision models, spatial tracking, and browser-based processing**.
+I’m passionate about technology, especially in areas where it intersects with real-world impact—automation, AI, and scalable systems. I’m constantly working on improving my skills and building projects that solve real problems.
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 What I'm Currently Building
 
-**Languages**
-- Python
-- JavaScript
-- TypeScript
-
-**AI / ML**
-- Gemini API
-- Computer Vision
-- MediaPipe
-
-**Development**
-- React
-- Next.js
-- Node.js
-- REST APIs
-
-**Tools**
-- Git
-- Docker
-- Real-time camera processing
+* **Dine Deals (coming soon...)**
+  A platform focused on helping users discover the best food deals in real-time, combining smart data aggregation with user-friendly design.
 
 ---
 
-## 🧠 Interests
+## 🛠️ Tech Stack
 
-- Artificial Intelligence  
-- Computer Vision  
-- Real-time AI systems  
-- Human-AI interaction  
-- Building useful products
+### Languages
 
----
+* JavaScript (ES6+)
+* Python
+* Java
+* C
+* SQL
 
-## 📈 Currently Learning
+### Frontend
 
-- Advanced computer vision pipelines
-- Efficient AI inference systems
-- Scaling AI-powered applications
+* React
+* Next.js
+* Tailwind CSS
+* HTML5 / CSS3
+
+### Backend
+
+* Node.js
+* Express.js
+* REST APIs
+
+### Databases
+
+* MongoDB
+* PostgreSQL
+* Supabase
+
+### Tools & Platforms
+
+* Git & GitHub
+* Docker
+* Azure DevOps
+* Linux
+* Excel (Automation & Data Processing)
+
+### Other Skills
+
+* Data Validation & Analysis
+* Automation Systems
+* Problem Solving
+* Team Collaboration & Leadership
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: *(add your LinkedIn link here)*
-- GitHub: *(your GitHub username)*
+* LinkedIn: https://www.linkedin.com/in/rohanvramchandani/
+* Email: rohanvramchandani@gmail.com
 
 ---
 
-⭐ I enjoy collaborating on **AI, computer vision, and innovative projects.**
+*Always learning. Always building.*
