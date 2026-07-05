@@ -10,13 +10,6 @@ I’m passionate about technology, especially in areas where it intersects with 
 
 ---
 
-## 🚀 What I'm Currently Building
-
-* **Dine Deals (coming soon...)**
-  A platform focused on helping users discover the best food deals in real-time, combining smart data aggregation with user-friendly design.
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages
